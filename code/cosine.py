@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 
+# more sophisticated one here
+# https://github.com/puneeth-u-bharadwaj/Data-Mining/blob/master/Cosine-Similarity/src/final/Puneeth_Umesh_Bharadwaj_PA1.py
 import re
 import math
 from collections import Counter
